@@ -1,14 +1,13 @@
 ---
 bg: "owl.jpg"
 layout: page
-title: "About"
-crawlertitle: "Aquí es para mí"
-permalink: /about/
-summary: "About this blog"
-active: about
+title: "CV"
+crawlertitle: "Curriculum vitae"
+permalink: /CV/
+summary: ""
+active: CV
 ---
 
-Hola.
 
 ## Education
 
@@ -34,7 +33,7 @@ Hola.
 		
 2017 	-	U-Grow Digital Humanities Fellowship, at Center for Computational Science at the University of Miami. AY 2017-2018
 
-2017 	-	Winner of the Early Modern Graduate Essay Award for the article “Colón y el arte de navegar: el barco como lugar de enunciación epistemológica en el Primer viaje de 			Cristóbal Colón.” Early Modern Studies Concentration, College of Arts and Science, University of Miami. 
+2017 	-	Winner of the Early Modern Graduate Essay Award for the article “Colón y el arte de navegar: el barco como lugar de enunciación epistemológica en el Primer viaje de Cristóbal Colón.” Early Modern Studies Concentration, College of Arts and Science, University of Miami. 
 	
 2017	-	Winner of the 14th Annual Feministas Unidas Graduate Student Essay Prize Competition for the article “Lesbianismo, objetos escriturales y metáforas marinas en Instrucciones para olvidar de Inés Marful y dos cuentos de Carme Riera.” 
 
@@ -67,17 +66,17 @@ Hola.
 - “Alternative Spaces in the Press and the City during the Early Twentieth Century in Spain”. Invited Speaker at 2nd Annual Sigma Delta Pi Graduate Research Symposium at Kentucky Foreign 	Language Conference (KFLC), Lexington, Kentucky. To be held, April 11-13. 
 
 
-- “The In-Betweens of Lesbian Identity Politics and Deviant Sexualities in 1920s Spanish Erotic 	Magazines and Collections of Novelettes. 28th Annual Meeting of the Association of Gender and Sexuality Studies, University of Illinois at Chicago. September 27-29, 2018. 
+- “The In-Betweens of Lesbian Identity Politics and Deviant Sexualities in 1920s Spanish Erotic Magazines and Collections of Novelettes. 28th Annual Meeting of the Association of Gender and Sexuality Studies, University of Illinois at Chicago. September 27-29, 2018. 
 
-- “Perspectivas de género y lo queer en las letras hispanas.” Invited Speaker.  IES Leopoldo 	Querol, Castellón, Spain. Organized by CEFIRE. May 3, 2018.
+- “Perspectivas de género y lo queer en las letras hispanas.” Invited Speaker.  IES Leopoldo Querol, Castellón, Spain. Organized by CEFIRE. May 3, 2018.
 
 - “La voz/voces lésbicas en No me llames cariño de Lola Van Guardia/Isabel Franc.” XXII 	Congreso Internacional de Literatura y Estudios Hispánicos, Granada, Spain. June 27-29, 2018. 
 
 - “Epistemology of the Sea: Santa Pola Fisherman’s Oral Transmission in Naming Their Fishing 	Grounds in the Twentieth Century.” 20th Annual Mediterranean Studies 	Congress, University of Malta, Mediterranean Institute Valletta, Malta. May 31 - June 3, 2017.
 	
-- “Espacio y narración: entre el empoderamiento de la mujer, y la autorización y desautorización 	de la sexualidad lésbica en En breve cárcel de Sylvia Molloy.” GRAPHSY at Georgetown University, Washington D.C. April 10-11, 2015.   
+- “Espacio y narración: entre el empoderamiento de la mujer, y la autorización y desautorización de la sexualidad lésbica en En breve cárcel de Sylvia Molloy.” GRAPHSY at Georgetown University, Washington D.C. April 10-11, 2015.   
 	 
-- “¿Por qué se le cortan las alas a Tristana?” 2nd Symposium of Hispanic Studies at University of 	Tennessee at Knoxville. March 26-28, 2015.   		
+- “¿Por qué se le cortan las alas a Tristana?” 2nd Symposium of Hispanic Studies at University of Tennessee at Knoxville. March 26-28, 2015.   		
 
 ## Teaching experience  
 
