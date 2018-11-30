@@ -4,7 +4,7 @@
 
   <nav class="center-wrapper nav-main">
 
-    <a class="blog-logo" href="{{ site.baseurl }}/">{{ site.title }}</a>
+    <!--<a class="blog-logo" href="{{ site.baseurl }}/">{{ site.title }}</a>
 
     {% for my_page in site.pages %}
       {% if my_page.active %}
@@ -12,7 +12,14 @@
       {% endif %}
     {% endfor %}
 
-    <a href="{{ "/feed.xml" | prepend: site.baseurl }}">RSS</a>
+    <a href="{{ "/feed.xml" | prepend: site.baseurl }}">RSS</a>-->
+    <a class="blog-logo" href="{{ site.baseurl }}/">Home</a>
+    <a href="/cv/index.html">CV</a>
+    <a href="/projects/index.html">Projects</a>
+    <a href="/teaching/index.html">Teaching</a>
+
+
+
 
     <label for="menu-checkbox" class="toggle-button" data-open="☰" data-close="☰" onclick></label>
   </nav>
