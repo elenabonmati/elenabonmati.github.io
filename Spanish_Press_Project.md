@@ -1,14 +1,15 @@
 ---
 bg: "estudios1.jpg"
 layout: page
-title: "Spanish_Press_Project"
-crawlertitle: "Spanish_Press_Project"
-permalink: /projects/
-summary: "Check out some of my teaching"
-active: Projects
+title: "Your title"
+crawlertitle: "Your title"
+permalink: /research/Spanish_Press_Project/
+summary: "Spanish Press Project"
+active: Reserach
 ---
+## Title of your project
 
-## 1) Overview of the project
+### 1) Overview of the project
 
 In this DH project, I aim to enrich former literary and historical discussions of the early twentieth-century anarchist production in Spain. I approach the investigation of this epoch through the analysis of the cultural products that do not belong to the intellectual elites, analyzing, instead, a variety of popular sources such as journals and magazines.
 
@@ -18,7 +19,7 @@ For this reason, I have used a sample data of 30 articles published in the anarc
 - How (if at all) did the anarchist magazines shape or contribute to the vulgarization of sexology and promote the sexual “education” of the masses during the early twentieth century?
 
 
-## 2) Digital methodology
+### 2) Digital methodology
 For this Project, I have used Voyant tools to visualize my founding but also to analyze and interpret the information.
 
 a) First, I have curated and found the corpus: 30 texts.
@@ -27,7 +28,7 @@ b) Second, I have analyzed my corpus with Voyant.
 
 
 
-## 3) Technical description
+### 3) Technical description
 
 a) Wordcloud View
 
@@ -66,7 +67,7 @@ ERE_145: homosexualismo (31), desviaci (7), normal (8), inversi (7), homosexual 
 ERE_107: armand (7), safo (4), volumen (3), prostitutas (3), historiaè (3).
 
 
-## b) Trends:
+### b) Trends:
 - Mujer
 
 <iframe style='width: 477px; height: 399px;' src='//voyant-tools.org/tool/Trends/?stopList=keywords-6ba2f80b652c1d9ac8a63563e0807065&query=inver*&query=mujer&query=mascu*&query=homosex*&labels=true&corpus=4b04c10a86e2b594317c67a500e9533d'></iframe>
@@ -77,7 +78,7 @@ ERE_107: armand (7), safo (4), volumen (3), prostitutas (3), historiaè (3).
 
 
 
-## c) Terms and distributions:
+### c) Terms and distributions:
 
 - Invert*
 
@@ -88,7 +89,7 @@ ERE_107: armand (7), safo (4), volumen (3), prostitutas (3), historiaè (3).
 ![](/Users/ebonmati/Desktop/Screen Shot 2018-12-06 at 7.31.55 AM.png)
 
 
-## d) Conclusion(s)  
+### d) Conclusion(s)  
 
 With this project I want to intervene in the discussions of historical and literary critics of early twentieth-century Spain. Indeed, DH allows me to study this period through the lens of different texts, since most critical analysis are very canonical and/or work with fewer text.    
 
