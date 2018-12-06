@@ -111,6 +111,6 @@ ERE_107: armand (7), safo (4), volumen (3), prostitutas (3), historiaè (3).
 
 ### d) Conclusion(s)  
 
-With this project I want to intervene in the discussions of historical and literary critics of early twentieth-century Spain. Indeed, DH allows me to study this period through the lens of different texts, since most critical analysis are very canonical and/or work with fewer text.    
+With this project I want to intervene in the discussions of historical and literary critics of early twentieth-century Spain. Indeed, text mining would potentially offer me new leans of approaching my texts, since most critical analysis are very canonical and/or work with fewer text.    
 
-From my text analysis findings, it is clear that social and political movements, such as the anarchist movement, influenced how knowledge about sexuality was disseminated to the majority of the population, which was not the educated or the elite.
+From my first text analysis experiment, it appears a new perspective to trace social and political movements, such as the anarchist movement, under a new light. It seems that Spanish anarchism influenced how knowledge about sexuality was disseminated to the majority of the population, which was not the educated or the elite.
