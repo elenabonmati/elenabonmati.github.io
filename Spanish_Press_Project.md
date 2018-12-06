@@ -1,13 +1,13 @@
 ---
 bg: "estudios1.jpg"
 layout: page
-title: "Your title"
-crawlertitle: "Your title"
+title: "Spanish Anarchist Press in 20s-30s"
+crawlertitle: "Spanish Anarchist Press in 20s-30s"
 permalink: /research/Spanish_Press_Project/
 summary: "Spanish Press Project"
-active: Reserach
+active: Research
 ---
-## Title of your project
+## Spanish Anarchist Press in 20s-30s
 
 ### 1) Overview of the project
 
@@ -45,25 +45,45 @@ Feel free to change the height and width values or other styling below: -->
 - Most frequent words in the corpus: sexual (223); mujer (184); hombre (162); vida (156); sexo (112)
 
 - Distinctive words (compared to the rest of the corpus):
+
 ERE_106: prostituci (10), pornograf’a (6), armand (5), libertinaje (5), desnudez (3).
+
 ERE_64_1: muchacho (10), pel’culas (6), novelas (6), suceso (4), pasi (8).
+
 ERE_123_2: pen’nsula (3), muchedumbres (3), grado (3), escritores (3), pueblos (5).
+
 ERE_123_1: placeres (5), gu’a (3), placer (5), olvidar (2), constantemente (2).
+
 ERE_101: ritmo (7), transtornos (2), mosso (2), mixto (2), demas’a (2).
+
 ERE_120_2: lujuria (2), pierre (1), tranquilas (1), orlan (1), manuales (1).
+
 ERE_120: delincuencia (7), reviste (5), clases (6), tarados (4), psicop (4).
+
 ERE_119: sexo (18), divulgaci (3), kretschmer (2), çgermaè (2), buscadores (2).
+
 ERE_91: iniciaci (10), virginidad (6), esposa (3), higiene (6), ignorancia (6).
+
 ERE_71: feminidad (21), virilidad (14), orgasmo (9), crisis (17), aptitud (10).
+
 ERE_66_4: quina (6), mec (6), gula (3), aprisa (3), rbaros (2).
+
 ERE_66_3: conquistar (3), rutina (2), premio (2), pensaron (2), casualidad (2).
+
 ERE_66_2: antropocultura (10), individualista (8), colectivista (8), gestado (6), eucracia (6).
+
 ERE_66_1: engendrar (5), degenerados (3), acto (7), estar (4), procreaci (3).
+
 ERE_65_4: aprender (5), experiencia (7), permiten (4), padres (5), cter (6).
+
 ERE_65_3: sue (6), ansias (2), alem (2), francžs (2), deseos (2).
+
 ERE_65_2: cultural (8), religiosidad (6), feminidad (10), hist (11), maternidad (8).
+
 ERE_65_1: herencia (22), monier (10), mr (6), gžrmenes (7), alma (12).
+
 ERE_145: homosexualismo (31), desviaci (7), normal (8), inversi (7), homosexual (7).
+
 ERE_107: armand (7), safo (4), volumen (3), prostitutas (3), historiaè (3).
 
 
@@ -83,11 +103,11 @@ ERE_107: armand (7), safo (4), volumen (3), prostitutas (3), historiaè (3).
 - Invert*
 
 ![](/Users/ebonmati/Desktop/Screen Shot 2018-12-06 at 7.32.05 AM.png)
-
+![Fishermans](/assets/images/imagen1.png "Fisherman")
 - Homosex*
 
 ![](/Users/ebonmati/Desktop/Screen Shot 2018-12-06 at 7.31.55 AM.png)
-
+![Fishermans](/assets/images/imagen2.png "Fisherman")
 
 ### d) Conclusion(s)  
 
