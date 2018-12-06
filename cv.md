@@ -3,9 +3,9 @@ bg: "owl.jpg"
 layout: page
 title: "CV"
 crawlertitle: "Curriculum vitae"
-permalink: /CV/
+permalink: /cv/
 summary: ""
-active: CV
+active: cv
 ---
 
 
