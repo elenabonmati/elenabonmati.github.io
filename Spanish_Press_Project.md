@@ -1,5 +1,5 @@
 ---
-bg: "flag1.pdf"
+bg: "flag.png"
 layout: page
 title: "Spanish Anarchist Press in 20s-30s"
 crawlertitle: "Spanish Anarchist Press in 20s-30s"
