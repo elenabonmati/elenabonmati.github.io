@@ -150,7 +150,7 @@ In this part, I am interested in looking at how words are connected with others,
 
 - Hombre* 
 
-![hombre](/Users/ebonmati/GitHub/elenabonmati.github.io/assets/images/hombre.png "hombre")
+![hombre](/assets/images/hombre.png "hombre")
 
 - Mujer*
 
