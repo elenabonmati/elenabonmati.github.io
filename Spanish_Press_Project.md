@@ -1,5 +1,5 @@
 ---
-bg: "flag"
+bg: "flag.pdf"
 layout: page
 title: "Spanish Anarchist Press in 20s-30s"
 crawlertitle: "Spanish Anarchist Press in 20s-30s"
@@ -137,14 +137,6 @@ In this section, I am interested in looking at the relative frequencies of words
 
 ### c) Terms and distributions
 
-- Invert*
-
-![](/Users/ebonmati/Desktop/Screen Shot 2018-12-06 at 7.32.05 AM.png)
-![Fishermans](/assets/images/imagen1.png "Fisherman")
-- Homosex*
-
-![](/Users/ebonmati/Desktop/Screen Shot 2018-12-06 at 7.31.55 AM.png)
-![Fishermans](/assets/images/imagen2.png "Fisherman")
 
 In this part, I am interested in looking at how words are connected with others, such as: hombre* , mujer* , amor* , inver* , homosex*.
 
@@ -154,26 +146,24 @@ In this part, I am interested in looking at how words are connected with others,
 
 - Mujer*
 
-![](/Users/ebonmati/GitHub/elenabonmati.github.io/assets/images/mujer.png)
+![mujer](/assets/images/mujer.png "mujer")
 
 A first look at these images show that “hombre” occurs with “mujer”, “hombre/s” and “sexual”, while the most common phrases are: “hombre y mujer”, “hombres de ciencia” and “hombres de bien”. In the case of “women”, it not only refers to “man/men” but also to “feminidad” and “sexual”, and the common phrase “mujer de feminidad muy pura”. The first approximations show a controversial aspect, in fact, the anarchist movement is reproducing the bourgeois and capitalist model. While men are in charge of “science”, women are very much understood in a very essentialist manner, given  the phrase used for women.   
 
 - Amor*
 
-![](/Users/ebonmati/GitHub/elenabonmati.github.io/assets/images/amor.png)
+![amor](/assets/images/amor.png "amor")
 
 - Invert*
 
-![](/Users/ebonmati/GitHub/elenabonmati.github.io/assets/images/inver.png)
+![invert](/assets/images/inver.png "invert")
 
 - Homosex*
 
-![](/Users/ebonmati/GitHub/elenabonmati.github.io/assets/images/homosex.png)
+![homosex](/assets/images/homosex.png "homosex")
 
 
 Moving to the following words, the word amor* co-occurs with “mujer”, “pasión”, and “vida” which seems to highlight that amor is linked to women. In the case of homosexuality, the visualizations shows that the most recurrent collocates are:“inversión” and “perversión”, but it is also linked with “amor”. In a sense, that the word homosexuality co-occurs with “amor” disrupts and shows how same-sex relationships are seen not only in a pejorative manner, such as perversity; but also, in a positive manner such as “love”.  In addition, the relationship between words, seems to be closer to “mujer, sexual, sexo, ciencia.” Furthermore, the word inver* (inversión, invertido/a) occurs often with “hombre”, “homosexualismo”, “instinto”.
-
-
 
 
 ### d) Conclusion(s)  
