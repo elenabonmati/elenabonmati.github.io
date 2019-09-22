@@ -1,5 +1,5 @@
 ---
-bg: "research"
+bg: "researc.png"
 layout: page
 title: "Research"
 crawlertitle: "Research"
@@ -8,7 +8,7 @@ summary: "Information about my research"
 active: Research
 ---
 
-## PhD Research 
+## Ph.D. Research 
 
 My dissertation underscores the connections among real life cases of same-sex relationships and the scandals that surrounded them; the popularity of Spanish erotic literature; and anarchist ideology in the early twentieth century. My investigation of this period focuses on an analysis of historical events and cultural products that neither belong to the intellectual elites nor are solely a product of Spanish origin (given earlier transnational influences, such as those of American women who participated in cultural and collegiate exchanges). Instead, I investigate several mass media sources: newspaper articles, magazines, short stories, lyrics of popular songs, letters, and novels. 
 
