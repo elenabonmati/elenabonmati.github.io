@@ -11,7 +11,10 @@ active: Teaching
 
 2015-Present. **University of Miami, FL**
 
-- Spanish 330, co-taught with Dr. Gema Pérez Sánchez, “Eroticismo, ciencia-ficción y anarquismo en la literatura española de principios del siglo XX” (upper-division course), Fall 2018  
+- Spanish 301 co-taught with Dr. Ómar Vargas, "Interpreting Literary and Cultural texts in Spanish" (upper-division course), Fall 2019
+- Spanish 203 (upper-intermediate course), Fall 2019 
+- Spanish 330, co-taught with Dr. Gema Pérez Sánchez, “Eroticismo, ciencia-ficción y anarquismo en la literatura española de principios del siglo XX” (upper-division course), Fall 2018
+- Spanish 302, Mentored teaching with Dr. Susanna Allés-Torrent, “Culturas de España” (upper-division course), Fall 2018  
 - Spanish 201 (Intermediate Spanish I), Fall 2018 
 - Spanish 102 (Beginner Spanish II), Spring 2017
 - Spanish 101 (Beginner Spanish I), Fall 2016

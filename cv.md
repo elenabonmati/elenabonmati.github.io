@@ -26,6 +26,7 @@ active: cv
 
 - “Alternative Spaces in the Press and the City during the Early Twentieth Century in Spain”. Invited Speaker at 2nd Annual Sigma Delta Pi Graduate Research Symposium at Kentucky Foreign 	Language Conference (KFLC), Lexington, Kentucky. To be held, April 11-13.
 
+- “Perversities in Consultorio de Mujeres (1910s)” 10th Annual Graduate Student Conference of the Department of Spanish and Portuguese, University of Colorado at Boulder. March 15-16, 2019. 
 
 - “The In-Betweens of Lesbian Identity Politics and Deviant Sexualities in 1920s Spanish Erotic Magazines and Collections of Novelettes. 28th Annual Meeting of the Association of Gender and Sexuality Studies, University of Illinois at Chicago. September 27-29, 2018.
 
@@ -39,6 +40,8 @@ active: cv
 
 - “¿Por qué se le cortan las alas a Tristana?” 2nd Symposium of Hispanic Studies at University of Tennessee at Knoxville. March 26-28, 2015.   		
 ## Honors and Awards
+
+2019 	-	Recipient of Outstanding Teaching Assistant Award in Modern Languages and Literatures. AY 2018-2019.
 
 2018	-	Recipient of the Sigma Delta Pi Research Summer Grant. AY 2017-2018
 
@@ -64,6 +67,8 @@ active: cv
 
 
 ## Travel Grants and Fellowships
+
+2018 -	Recipient of the Graduate Student Travel Scholarship, University of Miami. AY 2018-2019.
 
 2018 -	Recipient of the University of Miami Max and Peggy Kriloff Student Travel Scholarship. AY 2018-2019
 
