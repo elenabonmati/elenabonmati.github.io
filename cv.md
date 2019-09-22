@@ -24,19 +24,19 @@ active: cv
 
 ## Conference Presentations and Invited Talks
 
-- “Alternative Spaces in the Press and the City during the Early Twentieth Century in Spain”. Invited Speaker at 2nd Annual Sigma Delta Pi Graduate Research Symposium at Kentucky Foreign 	Language Conference (KFLC), Lexington, Kentucky. To be held, April 11-13.
+- “Alternative Spaces in the Press and the City during the Early Twentieth Century in Spain”. Invited Speaker at 2nd Annual Sigma Delta Pi Graduate Research Symposium at Kentucky Foreign 	Language Conference (KFLC), Lexington, Kentucky. April 11-13, 2019.
 
-- “Perversities in Consultorio de Mujeres (1910s)” 10th Annual Graduate Student Conference of the Department of Spanish and Portuguese, University of Colorado at Boulder. March 15-16, 2019. 
+- “Perversities in *Consultorio de Mujeres* (1910s)” 10th Annual Graduate Student Conference of the Department of Spanish and Portuguese, University of Colorado at Boulder. March 15-16, 2019. 
 
 - “The In-Betweens of Lesbian Identity Politics and Deviant Sexualities in 1920s Spanish Erotic Magazines and Collections of Novelettes. 28th Annual Meeting of the Association of Gender and Sexuality Studies, University of Illinois at Chicago. September 27-29, 2018.
 
 - “Perspectivas de género y lo queer en las letras hispanas.” Invited Speaker.  IES Leopoldo Querol, Castellón, Spain. Organized by CEFIRE. May 3, 2018.
 
-- “La voz/voces lésbicas en No me llames cariño de Lola Van Guardia/Isabel Franc.” XXII 	Congreso Internacional de Literatura y Estudios Hispánicos, Granada, Spain. June 27-29, 2018.
+- “La voz/voces lésbicas en *No me llames cariño* de Lola Van Guardia/Isabel Franc.” XXII 	Congreso Internacional de Literatura y Estudios Hispánicos, Granada, Spain. June 27-29, 2018.
 
 - “Epistemology of the Sea: Santa Pola Fisherman’s Oral Transmission in Naming Their Fishing 	Grounds in the Twentieth Century.” 20th Annual Mediterranean Studies 	Congress, University of Malta, Mediterranean Institute Valletta, Malta. May 31 - June 3, 2017.
 
-- “Espacio y narración: entre el empoderamiento de la mujer, y la autorización y desautorización de la sexualidad lésbica en En breve cárcel de Sylvia Molloy.” GRAPHSY at Georgetown University, Washington D.C. April 10-11, 2015.   
+- “Espacio y narración: entre el empoderamiento de la mujer, y la autorización y desautorización de la sexualidad lésbica en *En breve cárcel de Sylvia Molloy*.” GRAPHSY at Georgetown University, Washington D.C. April 10-11, 2015.   
 
 - “¿Por qué se le cortan las alas a Tristana?” 2nd Symposium of Hispanic Studies at University of Tennessee at Knoxville. March 26-28, 2015.   		
 ## Honors and Awards
