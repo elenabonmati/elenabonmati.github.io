@@ -23,9 +23,7 @@ active: cv
 	-    Semester abroad (January-June 2009): University of South Australia, Australia
 	- Year abroad (2007-2008): Manchester Metropolitan University, England.
 
-## Conference Presentations and Invited Talks
-
-- “Alternative Spaces in the Press and the City during the Early Twentieth Century in Spain”. Invited Speaker at 2nd Annual Sigma Delta Pi Graduate Research Symposium at Kentucky Foreign 	Language Conference (KFLC), Lexington, Kentucky. April 11-13, 2019.
+## Conference Presentations
 
 - “Perversities in *Consultorio de Mujeres* (1910s)” 10th Annual Graduate Student Conference of the Department of Spanish and Portuguese, University of Colorado at Boulder. March 15-16, 2019. 
 
@@ -39,47 +37,63 @@ active: cv
 
 - “Espacio y narración: entre el empoderamiento de la mujer, y la autorización y desautorización de la sexualidad lésbica en *En breve cárcel de Sylvia Molloy*.” GRAPHSY at Georgetown University, Washington D.C. April 10-11, 2015.   
 
-- “¿Por qué se le cortan las alas a Tristana?” 2nd Symposium of Hispanic Studies at University of Tennessee at Knoxville. March 26-28, 2015.   		
+- “¿Por qué se le cortan las alas a Tristana?” 2nd Symposium of Hispanic Studies at University of Tennessee at Knoxville. March 26-28, 2015. 
+
+## Invited Talks
+
+#### a) Academic
+
+- “Alternative Spaces in the Press and the City during the Early Twentieth Century in Spain”. Invited Speaker at 2nd Annual Sigma Delta Pi Graduate Research Symposium at Kentucky Foreign Language Conference (KFLC), Lexington, Kentucky. April 11-13, 2019.
+
+#### b) Community (general audience and pedagogical)
+
+- “Perspectivas de género y lo queer en las letras hispanas.” Invited Speaker. IES Leopoldo Querol, Castellón, Spain. Organized by CEFIRE. May 3, 2018.
+
+- Invited Keynote Speaker for 2nd Gay Pride in Santa Pola, Spain. 8 July, 2017.
+
+
+  		
 ## Honors and Awards
 
-2019 	-	Recipient of Outstanding Teaching Assistant Award in Modern Languages and Literatures. AY 2018-2019.
+2019 - Outstanding Teaching Assistant Award in Modern Languages and Literatures. University of Miami. AY 2018-2019.
 
-2018	-	Recipient of the Sigma Delta Pi Research Summer Grant. AY 2017-2018
+2018 - Sigma Delta Pi Research Summer Grant. National Collegiate Hispanic Honor Society, College of Charleston. AY 2017-2018
 
-2018	-	Recipient of the College of Arts and Sciences Summer Research Award, University of Miami. Summer 2018
+2018 - College of Arts and Sciences Summer Research Award, University of Miami. Summer 2018
 
-2018 	-	Nominee for Outstanding Graduate Student Award, Department of Modern Languages and Literatures, University of Miami. AY 2017-2018
+2018 - Nominee for Outstanding Graduate Student Award, Department of Modern Languages and Literatures, University of Miami. AY 2017-2018
 
-2017 	-	U-Grow Digital Humanities Fellowship, at Center for Computational Science at the University of Miami. AY 2017-2018
+2017 - U-Grow Digital Humanities Fellowship, at Center for Computational Science at the University of Miami. AY 2017-2018
 
-2017 	-	Winner of the Early Modern Graduate Essay Award for the article “Colón y el arte de navegar: el barco como lugar de enunciación epistemológica en el Primer viaje de Cristóbal Colón.” Early Modern Studies Concentration, College of Arts and Science, University of Miami.
+2017 - Winner of the Early Modern Graduate Essay Award for the article “Colón y el arte de navegar: el barco como lugar de enunciación epistemológica en el Primer viaje de Cristóbal Colón.” Early Modern Studies Concentration, College of Arts and Science, University of Miami.
 
-2017	-	Winner of the 14th Annual Feministas Unidas Graduate Student Essay Prize Competition for the article “Lesbianismo, objetos escriturales y metáforas marinas en Instrucciones para olvidar de Inés Marful y dos cuentos de Carme Riera.”
+2017 - Winner of the 14th Annual Feministas Unidas Graduate Student Essay Prize Competition for the article “Lesbianismo, objetos escriturales y metáforas marinas en Instrucciones para olvidar de Inés Marful y dos cuentos de Carme Riera.”
 
 2014 - Nominee for J. Wallace & Katie Dean Graduate Fellowships at the University of Tennessee.
 
-2011	-	Recipient of the Fulbright Foreign Language Teaching Assistant Scholarship at Lincoln University, PA (USA). AY 2011-2012.
+2011 - Fulbright Foreign Language Teaching Assistant Scholarship at Lincoln University, PA (USA). AY 2011-2012.
 
-2009 	-	Recipient of the Non-European Scholarship at University of South Australia (Australia). Spring semester 2009.  
+2009 - Non-European Scholarship at University of South Australia (Australia). Spring semester 2009.
 
-2007 	-	Recipient of the Erasmus (European Region Action Scheme for the Mobility of University Students) Grant. Manchester Metropolitan University, England. AY 2007-	2008.
+2007 - Erasmus (European Region Action Scheme for the Mobility of University Students) Grant. Manchester Metropolitan University, England. AY 2007- 2008.
 
-2004 	-	Recipient of the IVAJ (Institut Valencià de la Joventut)’s summer language grant Tullamore, Ireland. Summer, 2004.
+2004 - Institut Valencià de la Joventut’s (IVAJ) Summer Language Grant Tullamore, Ireland. Summer, 2004.
+
 
 
 ## Travel Grants and Fellowships
 
-2018 -	Recipient of the Graduate Student Travel Scholarship, University of Miami. AY 2018-2019.
+2018 - Graduate Student Travel Scholarship, University of Miami. AY 2018-2019.
 
-2018 -	Recipient of the University of Miami Max and Peggy Kriloff Student Travel Scholarship. AY 2018-2019
+2018 - University of Miami Max and Peggy Kriloff Student Travel Scholarship. AY 2018-2019
 
-2018 -	Recipient of the UM Graduate Activity Fee Allocation Committee Travel Award (GAFAC). AY 2018-2019
+2018 - UM Graduate Activity Fee Allocation Committee Travel Award (GAFAC). AY 2018-2019
 
-2018 - 	Recipient of University of Miami Department of Modern Language and Literatures Conference Travel Award. AY 2017-2018
+2018 - University of Miami Department of Modern Language and Literatures Conference Travel Award. AY 2017-2018
 
-2017 -	Recipient of the University of Miami Max and Peggy Kriloff Student Travel Scholarship. AY 2016-2017
+2017 - University of Miami Max and Peggy Kriloff Student Travel Scholarship. AY 2016-2017
 
-2017 -	Recipient of the UM Graduate Activity Fee Allocation Committee Travel Award (GAFAC). AY 2016-2017
+2017 – University of Miami Graduate Activity Fee Allocation Committee Travel Award (GAFAC). AY 2016-2017
 
 ## Academic service
 
@@ -98,19 +112,18 @@ active: cv
 - Manager of Spanish Club at Lincoln University. AY 2011-2012.
 
 
-## Non-academic service
+## Volunteer Work
 
-- Translator and Interpretation for non-English speakers for the interviews for applications to US
-citizenships, Spanish-English (Catholic Legal Service), Miami. Fall 2015.
+- Translator and Interpreter for non-English speakers, interviews for applications to US citizenships, Spanish-English (Catholic Legal Service), Miami. Fall 2015.
 
-- Voluntary Translator and Interpreter at the United Nations (New York) – planned by the NGO Committee for Social Development.  Spring 2012.      
+- Translator and Interpreter at the United Nations (New York) – planned by the NGO Committee for Social Development. Spring 2012.     
 
 
 ## Languages
 
 - Spanish: Native  
 - Catalan: Native
-- English: Near native
+- English: Superior
 - French: Intermediate
 - Italian: Beginner
 
@@ -120,4 +133,4 @@ citizenships, Spanish-English (Catholic Legal Service), Miami. Fall 2015.
 - Frameworks and CMS: Jekyll, Omeka
 - Data visualization: ArcGIS  
 - Text edition: Markdown; Latex
-- Others: version control (GitHub); GitHub Pages; electronic text analysis (Antconc, Voyant)
+- Others: version control (GitHub); GitHub Pages; electronic text analysis (Antconc, Voyant, Mallet)
