@@ -2,14 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Elena Bonmatí Gonzálvez</title>
-    <description>
-Hello! This is my web.... I am a Ph.D. student at UM. 
-</description>
+    <description></description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 06 Oct 2019 14:21:34 -0400</pubDate>
-    <lastBuildDate>Sun, 06 Oct 2019 14:21:34 -0400</lastBuildDate>
-    <generator>Jekyll v3.8.3</generator>
+    <pubDate>Mon, 07 Oct 2019 10:34:22 +0200</pubDate>
+    <lastBuildDate>Mon, 07 Oct 2019 10:34:22 +0200</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
     
       <item>
         <title>FISHING GROUNDS</title>
@@ -20,7 +18,7 @@ Hello! This is my web.... I am a Ph.D. student at UM.
 &lt;p&gt;For more information click on: &lt;a href=&quot;https://arcg.is/05L1WS&quot;&gt;Santa Pola’s Fishing Grounds &lt;/a&gt;&lt;/p&gt;
 
 </description>
-        <pubDate>Wed, 31 Oct 2018 00:00:00 -0400</pubDate>
+        <pubDate>Wed, 31 Oct 2018 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/posts/Fishing-grounds/</link>
         <guid isPermaLink="true">http://localhost:4000/posts/Fishing-grounds/</guid>
         
@@ -65,7 +63,7 @@ Hello! This is my web.... I am a Ph.D. student at UM.
 &lt;span class=&quot;nx&quot;&gt;console&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;a&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;       &lt;span class=&quot;c1&quot;&gt;// 2&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
 </description>
-        <pubDate>Wed, 29 Jun 2016 09:09:47 -0400</pubDate>
+        <pubDate>Wed, 29 Jun 2016 15:09:47 +0200</pubDate>
         <link>http://localhost:4000/posts/es6/</link>
         <guid isPermaLink="true">http://localhost:4000/posts/es6/</guid>
         
