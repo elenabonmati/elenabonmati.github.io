@@ -1,10 +1,28 @@
+## Elena Bonmatí personal site 
+
+My site is hosted in GitHub, using GitHub Pages and Jekyll's theme Voyager. 
+
 ## Voyager
 
-Just another jekyll theme. Demo: <http://redvi.github.io/voyager>
+Jekyll theme Demo: <http://redvi.github.io/voyager>
 
-### Feathures:
+### Features:
 
 All HTML files are compressed (see `_layouts/compress.html`).
+
+
+**Page**
+
+If page contains `active` tag, it will be show on site menu.
+
+```
+---
+layout: page
+title: "About"
+permalink: /about/
+active: about
+---
+```
 
 **Post**
 
@@ -26,37 +44,6 @@ categories: posts
 ```
 
 `bg` is a path to background of your article. By default backgrounds are placed in the `assets/images` directory.
-
-**Page**
-
-If page contains `active` tag, it will be show on site menu.
-
-```
----
-layout: page
-title: "About"
-permalink: /about/
-active: about
----
-```
-
-**Archive**
-
-Archive page is sorting posts by tags. No more than one tag in one post.
-
-Good:
-
-```
-tags : ['front-end']
-```
-
-Bad:
-
-```
-tags : ['front-end', 'jekyll']
-```
-
-Don't forget to change `_config.yml`.
 
 **Relative paths**
 
