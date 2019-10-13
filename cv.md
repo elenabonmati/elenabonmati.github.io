@@ -14,7 +14,8 @@ active: cv
 - **Ph.D Romance Studies (Spanish Track)**, University of Miami, USA.
 	* 	Certificate in Second Language Acquisition
 	*  Certifica in Digital Humanities
--             Expected date of graduation: May 2020
+	
+		- **Expected date of graduation**: May 2020
 
 - **M.A. in Spanish**, University of Tennessee, May 2014.  
 
