@@ -15,7 +15,7 @@ My dissertation underscores the connections among real life cases of same-sex re
 
 ## Digital Projects
 
-#### [The Spanish Anarchis Press in the 1920s and 1930s](/research/Spanish_Press_Project/index.html) (Ongoing)
+#### [The Spanish Anarchist Press in the 1920s and 1930s](/research/Spanish_Press_Project/index.html) (Ongoing)
 
 In my Digital Humanities Project, through text analysis and topic modeling programs, I analyze different erotic Spanish and Catalan magazines—such as *Flirt* (1922-1923), *Muchas Gracias* (1924-1932), *Papitu* (1923-1926), and *Chic* ((1932-1933)—and anarchist journals and magazines—such as *La Revista Blanca* (1923-1936) and *Generación Consciente/Estudios* (1922-1937). Due to copyright limitations, at present I can only examine magazines and journals, instead of novels and novelettes. Nevertheless, these magazines and journals also had a broader public and were as cheap as novelettes (Navarro). DH distant reading tools will allow me to identify the main themes and topics on sexuality discussed in these publications.
 
@@ -23,7 +23,7 @@ My aim is to create a computer readable corpus of erotic and anarchist magazines
 
 ![Collage](/assets/images/collage.jpg "Collage")  
 
-#### [Epistemology of the Sea: Fisherman’s local knowledge](https://umiami.maps.arcgis.com/apps/Cascade/index.html?appid=6d28d3b47f584d9795457d281c019420) (2017)
+#### [Epistemology of the Sea: Fisherman’s Local Knowledge](https://umiami.maps.arcgis.com/apps/Cascade/index.html?appid=6d28d3b47f584d9795457d281c019420) (2017)
 
 In this project, I show why local knowledge produced by fishermen in digital form matters and is relevant to the field of DH. I present these fishermen as a DH experts on the sea. Over the years, they have gathered, combined, collected, produced, created, and stored a great amount of information and data about their fishing areas and their surroundings in the Mediterranean Sea. In the study of spatial analysis, mapping has mostly focused on land and landscapes with regard to sociocultural, sociopolitical, and socioeconomic issues, yet interactions also happen at sea. Some questions addressed in this essay are: How are fishermen’s work and lives historically viewed and understood? Why is the fishermen’s knowledge important to the field of DH? How do the fishermen construct their bathymetry/map with geographical and fishing information? And why should we distinguish between map-creating and map-reading in terms of readable/encoded knowledge? 
 
