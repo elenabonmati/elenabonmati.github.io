@@ -24,6 +24,15 @@ active: cv
 	-    Semester abroad (January-June 2009): University of South Australia, Australia
 	- Year abroad (2007-2008): Manchester Metropolitan University, England.
 
+## Research Interest
+
+Nineteenth-, Twentieth- and Twenty-First-Century Spanish and Catalan peninsular literature; Cultural Studies; Women and Gender Studies; Film Studies; Queer Studies; Digital Humanities; Sociolinguistics. 
+
+## Teaching Interest
+
+Modern and contemporary Spanish and Catalan peninsular literature and culture; popular and mass-market literature (science fiction, erotic, speculative fiction); LGBTQI peninsular and Hispanic literature; Digital Humanities; Hispanic and Catalan film; mass media (including new media and visual platforms); Western Saharan and Equatorial Guinean literature; Peninsular regional identities and cultures.
+
+
 ## Conference Presentations
 
 - “Perversities in *Consultorio de Mujeres* (1910s)” 10th Annual Graduate Student Conference of the Department of Spanish and Portuguese, University of Colorado at Boulder. March 15-16, 2019. 
@@ -50,11 +59,8 @@ active: cv
 
 - “Perspectivas de género y lo queer en las letras hispanas.” Invited Speaker. IES Leopoldo Querol, Castellón, Spain. Organized by CEFIRE. May 3, 2018.
 
-- Invited Keynote Speaker for 2nd Gay Pride in Santa Pola, Spain. 8 July, 2017.
-
-
   		
-## Honors and Awards
+## Honors, Awards and Fellowships
 
 2019 - Outstanding Teaching Assistant Award in Modern Languages and Literatures. University of Miami. AY 2018-2019.
 
@@ -82,7 +88,7 @@ active: cv
 
 
 
-## Travel Grants and Fellowships
+## Travel Grants
 
 2018 - Graduate Student Travel Scholarship, University of Miami. AY 2018-2019.
 
@@ -96,15 +102,22 @@ active: cv
 
 2017 – University of Miami Graduate Activity Fee Allocation Committee Travel Award (GAFAC). AY 2016-2017
 
-## Academic service
+## Digital Humanities Projects 
+
+2018 	Bonmatí Gonzálvez, Elena. [“The Spanish Anarchist Press in the 1920s and 1930s."] (http://elenabonmati.com/research/Spanish_Press_Project/index.html)
+
+2017 	Bonmatí Gonzálvez, Elena. [“Fishing grounds: Santa Pola's Fishermen: From Notebooks to The Digital Era.”] (https://arcg.is/05L1WS) 
+
+
+## Academic Service
 
 - President of Sigma Delta PI (Alpha Chi Chapter). AY 2017- 2018
 
-- Member, Organizing Committee, 15th Graduate Student Conference. Department of Modern 	Languages and Literatures, University of Miami. AY 2016- 2017.
+- Member, Organizing Committee, 15th Graduate Student Conference. Department of Modern 	Languages and Literatures, University of Miami. AY 2016-2017.
 
-- Student Representative to the Graduate Student Association, University of Miami. AY 2015- 	2016. 	
+- Student Representative to the Graduate Student Association, University of Miami. AY 2015-2016. 	
 
-- Spanish Table Tutoring at University of Miami. AY 2015- 2016.
+- Spanish Table Tutoring at University of Miami. AY 2015-2016.
 
 - Organizer of International Food Festival at Lincoln University, Spring 2012.
 
@@ -112,8 +125,12 @@ active: cv
 
 - Manager of Spanish Club at Lincoln University. AY 2011-2012.
 
+- Student Representative to the Department of English and Spanish Studies, University of Alicante. 	AY 2006-2007.
 
-## Volunteer Work
+
+## Non-academic Service 
+
+- Invited Keynote Speaker for 2nd Gay Pride in Santa Pola, Spain. 8 July, 2017.
 
 - Translator and Interpreter for non-English speakers, interviews for applications to US citizenships, Spanish-English (Catholic Legal Service), Miami. Fall 2015.
 
@@ -130,6 +147,7 @@ active: cv
 
 
 ## Technical Skills
+
 - Programming Language: Python
 - Frameworks and CMS: Jekyll, Omeka
 - Data visualization: ArcGIS  
