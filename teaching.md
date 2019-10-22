@@ -23,11 +23,11 @@ active: Teaching
 
 2013-2015. **University of Tennessee, TN**
 
-- Spanish 211 (Intermediate Spanish I), (2 sections), Instructor of record,  Spring 2015
-- Spanish 150 (Beginner Hybrid Spanish II), (2 sections), Instructor of record,  Fall 2014 
-- Spanish 112 (Beginner Spanish II), Instructor of record, Summer 2014 
-- Spanish 123 (Beginner Intensive Hybrid Spanish I and II), Instructor of record, Spring 2014 
-- Spanish 123 (Beginner Intensive Hybrid Spanish I and II),Instructor of record,  Fall 2013
+- Spanish 123 (Intensive Elementary Spanish), Instructor of record, Spring 2015 
+- Spanish 150 (Transition to Intermediate Spanish), (2 sections), Instructor of record, Fall 2014
+- Spanish 112 (Elementary Spanish II), Instructor of record, Summer 2014
+- Spanish 112 (Elementary Spanish II), Instructor of record, Spring 2014
+- Spanish 123 (Intensive Elementary Spanish), Instructor of record, Fall 2013
 
 2011-2012. **Lincoln University, PA**
 
