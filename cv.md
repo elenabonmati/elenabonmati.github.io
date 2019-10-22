@@ -104,9 +104,10 @@ Modern and contemporary Spanish and Catalan peninsular literature and culture; p
 
 ## Digital Humanities Projects 
 
-2018 	Bonmatí Gonzálvez, Elena. [“The Spanish Anarchist Press in the 1920s and 1930s."] (http://elenabonmati.com/research/Spanish_Press_Project/index.html)
+2018 	Bonmatí Gonzálvez, Elena. "The Spanish Anarchist Press in the 1920s and 1930s." <http://elenabonmati.com/research/Spanish_Press_Project/index.html>
 
-2017 	Bonmatí Gonzálvez, Elena. [“Fishing grounds: Santa Pola's Fishermen: From Notebooks to The Digital Era.”] (https://arcg.is/05L1WS) 
+2017 	Bonmatí Gonzálvez, Elena. "Fishing grounds: Santa Pola's Fishermen: From Notebooks to The Digital Era." 
+<https://arcg.is/05L1WS>
 
 
 ## Academic Service
